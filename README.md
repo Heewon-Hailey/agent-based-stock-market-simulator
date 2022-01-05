@@ -18,9 +18,12 @@ Agents have full knowledge of the market state and news, and partial information
 <br>
 
 ## How to run
-Either download NetLogo or use web version NetLogo at https://ccl.northwestern.edu/netlogo/. For a brief look, I suggest to use the web version NetLogo by uploading `stock model.nlogo`. The user interface differs in the web version. NetLogo 6.2.2. 
+Either download NetLogo or use web version NetLogo at https://ccl.northwestern.edu/netlogo/. For a brief look, I suggest to use the web version NetLogo by uploading `stock model.nlogo`. The user interface differs in the web version.
 <br>
 
+## Version
+NetLogo 6.2.2. 
+ 
 ----
 
 :newspaper: :+1: 
