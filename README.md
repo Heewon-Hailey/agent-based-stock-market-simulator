@@ -24,7 +24,9 @@ Agents have full knowledge of the market state and news, and partial information
 * Experiment1: The main objective of this experiment is to understand the effect of private (influencer) sentiment on stock market volatility. In order to measure the volatility, standard deviation of stock prices for the final 90 days is used
 as an indicator. 
 * Experiment2: In the second experiment, the purpose is to investigate the relationship between volatility and network topology in the absence of global news. With parameters maximising the impact of local sentiment (peer-sens and infl-sens), the simulation is run 50 times per topology. In addition to the standard deviation and Gini index described in experiment 1, the final networth distribution of traders is captured for wealth distribution analysis under the various network conditions. 
-* Experiment3: As an extension of the previous experiments, the common patterns of big winners are captured. In this experiment, simulations are run with parameters which can maximize the number of traders who winconsistently over the time period of a single simulation.  For the diversity in agents’ trading strategies, wider deviation is applied.
+    - Network topologies: Lattice, small world, random, and scalefree
+
+* Experiment3: As an extension of the previous experiments, the common patterns of big winners are captured. In this experiment, simulations are run with parameters which can maximize the number of traders who win consistently over the time period of a single simulation. For the diversity in agents’ trading strategies, wider deviation is applied.
 
 
 I used Python for data analysis.<br>
